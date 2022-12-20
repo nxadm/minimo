@@ -84,6 +84,7 @@ telegram = "MunifTanjim"
 google_scholar = "qc6CJjYAAAAJ"
 youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 mastodon = "https://mastodon.social/@you"
+rss-social = "https://your.site/index.xml"
 
 [params.comments]
 enable = false
